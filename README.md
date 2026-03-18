@@ -31,7 +31,7 @@ A professional, high-tech dashboard for supermarket point-of-sale management, bu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/modern-pos-system.git
+   git clone https://github.com/lakshan-bandara/Modern-Supermarket-POS-System.git
    ```
 
 2. Navigate to the project directory:
